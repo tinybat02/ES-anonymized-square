@@ -1,0 +1,21 @@
+{
+  "type": "panel",
+  "name": "ES Anonymized Square",
+  "id": "id-es-anonymized_trace_square",
+  "dataFormats": ["table"],
+  "info": {
+    "description": "ES Anonymized Square",
+    "author": {
+      "name": "Nam Le"
+    },
+    "keywords": [],
+    "screenshots": [],
+    "version": "1.0.0",
+    "updated": "2020-07-31"
+  },
+
+  "dependencies": {
+    "grafanaVersion": "6.3.x",
+    "plugins": []
+  }
+}
